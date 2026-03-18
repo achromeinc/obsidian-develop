@@ -11,10 +11,14 @@
             "id": "89bf754fa1cb7fdb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "test.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新規タブ"
+              "title": "test"
             }
           }
         ]
@@ -187,8 +191,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "46c7f4acb1d2863a",
+  "active": "d8614ecdc7790c04",
   "lastOpenFiles": [
+    "test.md",
     "outbox/asset",
     "outbox",
     "inbox"
