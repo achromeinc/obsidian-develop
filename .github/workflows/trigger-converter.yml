@@ -1,0 +1,18 @@
+# Vaultリポジトリ（obsidian-develop）に配置するワークフロー
+name: Trigger Converter
+
+on:
+  push:
+    paths:
+      - "inbox/**"
+
+jobs:
+  dispatch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Dispatch to converter repository
+        uses: peter-evans/repository-dispatch@v3
+        with:
+          token: ${{ secrets.CONVERTER_DISPATCH_GITHUB_TOKEN }}
+          repository: ${{ vars.CONVERTER_REPO }}
+          event-type: new-bookmark
