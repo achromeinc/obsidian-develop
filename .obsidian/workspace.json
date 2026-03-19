@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inbox/【2026年最新版】Claude Codeプラグイン開発入門 — 自作プラグインでチームの開発体験を拡張する #AWS - Qiita.md",
+                "file": "outbox/ff8ff159-57fd-4422-93cb-5b938f4ff8aa.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "【2026年最新版】Claude Codeプラグイン開発入門 — 自作プラグインでチームの開発体験を拡張する #AWS - Qiita"
+              "title": "ff8ff159-57fd-4422-93cb-5b938f4ff8aa"
             }
           }
         ]
@@ -193,8 +193,10 @@
   },
   "active": "89bf754fa1cb7fdb",
   "lastOpenFiles": [
-    "inbox/Claude Codeプラグインを社内で作って、2ヶ月経過した.md",
+    "inbox/XユーザーのMap（@_map_universe_）さん.md",
     "inbox/【2026年最新版】Claude Codeプラグイン開発入門 — 自作プラグインでチームの開発体験を拡張する #AWS - Qiita.md",
+    "outbox/ff8ff159-57fd-4422-93cb-5b938f4ff8aa.md",
+    "inbox/Claude Codeプラグインを社内で作って、2ヶ月経過した.md",
     "test.md",
     "outbox/asset",
     "outbox",
