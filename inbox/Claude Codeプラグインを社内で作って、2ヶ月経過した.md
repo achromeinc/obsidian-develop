@@ -1,0 +1,1 @@
+[Claude Codeプラグインを社内で作って、2ヶ月経過した](https://zenn.dev/ubie_dev/articles/5c510ab1d7e6f3)
