@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test.md",
+                "file": "inbox/【2026年最新版】Claude Codeプラグイン開発入門 — 自作プラグインでチームの開発体験を拡張する #AWS - Qiita.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "test"
+              "title": "【2026年最新版】Claude Codeプラグイン開発入門 — 自作プラグインでチームの開発体験を拡張する #AWS - Qiita"
             }
           }
         ]
@@ -191,7 +191,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "46c7f4acb1d2863a",
+  "active": "89bf754fa1cb7fdb",
   "lastOpenFiles": [
     "inbox/Claude Codeプラグインを社内で作って、2ヶ月経過した.md",
     "inbox/【2026年最新版】Claude Codeプラグイン開発入門 — 自作プラグインでチームの開発体験を拡張する #AWS - Qiita.md",
