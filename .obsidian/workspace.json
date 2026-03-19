@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "dcb43aa8f2e33a7a",
+        "id": "54c9275b592ef495",
         "type": "tabs",
         "children": [
           {
-            "id": "ac84f677c7ee6832",
+            "id": "89bf754fa1cb7fdb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "test.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新規タブ"
+              "title": "test"
             }
           }
         ]
@@ -173,7 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 777.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,13 +191,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d8614ecdc7790c04",
+  "active": "46c7f4acb1d2863a",
   "lastOpenFiles": [
+    "inbox/【2026年最新版】Claude Codeプラグイン開発入門 — 自作プラグインでチームの開発体験を拡張する #AWS - Qiita.md",
     "test.md",
-    "outbox",
-    "putbox",
-    "inbox",
     "outbox/asset",
+    "outbox",
     "inbox"
   ]
 }
