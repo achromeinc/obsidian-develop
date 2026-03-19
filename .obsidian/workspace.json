@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "outbox/ff8ff159-57fd-4422-93cb-5b938f4ff8aa.md",
+                "file": "outbox/1c8c27e4-17cf-46ef-aed4-77d9ff1412f9.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ff8ff159-57fd-4422-93cb-5b938f4ff8aa"
+              "title": "1c8c27e4-17cf-46ef-aed4-77d9ff1412f9"
             }
           }
         ]
@@ -193,9 +193,13 @@
   },
   "active": "89bf754fa1cb7fdb",
   "lastOpenFiles": [
+    "inbox/git worktreeで並列開発するためのくふう｜kaneshige.md",
+    "outbox/ff8ff159-57fd-4422-93cb-5b938f4ff8aa.md",
+    "outbox/assets/1c8c27e4-17cf-46ef-aed4-77d9ff1412f9-1.jpg",
+    "outbox/assets",
+    "outbox/1c8c27e4-17cf-46ef-aed4-77d9ff1412f9.md",
     "inbox/XユーザーのMap（@_map_universe_）さん.md",
     "inbox/【2026年最新版】Claude Codeプラグイン開発入門 — 自作プラグインでチームの開発体験を拡張する #AWS - Qiita.md",
-    "outbox/ff8ff159-57fd-4422-93cb-5b938f4ff8aa.md",
     "inbox/Claude Codeプラグインを社内で作って、2ヶ月経過した.md",
     "test.md",
     "outbox/asset",
