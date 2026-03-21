@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "outbox/d921d01b-1626-4be1-97b9-de3b1add30a4.md",
+                "file": "outbox/c620387f-5be1-4c73-acfc-eed9bf0f4e66.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "d921d01b-1626-4be1-97b9-de3b1add30a4"
+              "title": "c620387f-5be1-4c73-acfc-eed9bf0f4e66"
             }
           }
         ]
@@ -191,12 +191,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "46c7f4acb1d2863a",
+  "active": "89bf754fa1cb7fdb",
   "lastOpenFiles": [
-    "inbox/Claude Codeにloop + cronで夜勤させたら、朝起きたらPRが生えてる！？みたいなやつの作り方 #AI - Qiita.md",
-    "outbox/ff8ff159-57fd-4422-93cb-5b938f4ff8aa.md",
+    "inbox/Claude Codeにバックドア入りOSSを渡したら、何の疑いもなく実装した #AI - Qiita.md",
     "outbox/1c8c27e4-17cf-46ef-aed4-77d9ff1412f9.md",
+    "outbox/ff8ff159-57fd-4422-93cb-5b938f4ff8aa.md",
     "outbox/d921d01b-1626-4be1-97b9-de3b1add30a4.md",
+    "outbox/c620387f-5be1-4c73-acfc-eed9bf0f4e66.md",
+    "inbox/Claude Codeにloop + cronで夜勤させたら、朝起きたらPRが生えてる！？みたいなやつの作り方 #AI - Qiita.md",
     "inbox/git worktreeで並列開発するためのくふう｜kaneshige.md",
     "outbox/assets/1c8c27e4-17cf-46ef-aed4-77d9ff1412f9-1.jpg",
     "outbox/assets",

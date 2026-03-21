@@ -1,0 +1,1 @@
+[Claude Codeにバックドア入りOSSを渡したら、何の疑いもなく実装した #AI - Qiita](https://qiita.com/NF0000/items/66510f959b1c22f011a7)
