@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "outbox/1c8c27e4-17cf-46ef-aed4-77d9ff1412f9.md",
+                "file": "outbox/d921d01b-1626-4be1-97b9-de3b1add30a4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1c8c27e4-17cf-46ef-aed4-77d9ff1412f9"
+              "title": "d921d01b-1626-4be1-97b9-de3b1add30a4"
             }
           }
         ]
@@ -191,13 +191,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "89bf754fa1cb7fdb",
+  "active": "46c7f4acb1d2863a",
   "lastOpenFiles": [
-    "inbox/git worktreeで並列開発するためのくふう｜kaneshige.md",
+    "inbox/Claude Codeにloop + cronで夜勤させたら、朝起きたらPRが生えてる！？みたいなやつの作り方 #AI - Qiita.md",
     "outbox/ff8ff159-57fd-4422-93cb-5b938f4ff8aa.md",
+    "outbox/1c8c27e4-17cf-46ef-aed4-77d9ff1412f9.md",
+    "outbox/d921d01b-1626-4be1-97b9-de3b1add30a4.md",
+    "inbox/git worktreeで並列開発するためのくふう｜kaneshige.md",
     "outbox/assets/1c8c27e4-17cf-46ef-aed4-77d9ff1412f9-1.jpg",
     "outbox/assets",
-    "outbox/1c8c27e4-17cf-46ef-aed4-77d9ff1412f9.md",
     "inbox/XユーザーのMap（@_map_universe_）さん.md",
     "inbox/【2026年最新版】Claude Codeプラグイン開発入門 — 自作プラグインでチームの開発体験を拡張する #AWS - Qiita.md",
     "inbox/Claude Codeプラグインを社内で作って、2ヶ月経過した.md",
